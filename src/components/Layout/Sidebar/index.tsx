@@ -114,7 +114,7 @@ const Sidebar: React.FC<SidebarProps> = ({ open, setClosed }) => {
                     <div className="flex items-center flex-shrink-0 px-2">
                       <span className="px-4 text-xl text-gray-50">
                         <a href="/">
-                          <img src="/logo_full.svg" alt="Logo" />
+                          <img src="/logo2.png" alt="Logo" />
                         </a>
                       </span>
                     </div>
